@@ -2,7 +2,8 @@
   <h1 align="center">Hello, I’m Cyrille, welcome on my profile ! 🌴 </h1>
 </p>
 
-<h2 align="center"> I'm currently a student at <a href="https://42lyon.fr/">42 Lyon</a> 💻 </h2>
+<h2 align="center"> I was a student at <a href="https://42lyon.fr/">42 Lyon</a> 💻 </h2>
+<h2 align="center"> I am now looking for a job as a developer. </h2>
 
 <div align="center">
   <img src="https://github.com/JaeSeoKim/badge42/blob/main/public/badge42_logo.svg" width="60" height="60" style="max-width: 100%;">
@@ -12,8 +13,8 @@
 
 <h3> 🔧 Languages and tools </h3>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" height="60" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" height="60" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
@@ -36,5 +37,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
