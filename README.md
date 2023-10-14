@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center"> I was a student at <a href="https://42lyon.fr/">42 Lyon</a> 💻 </h2>
-<h2 align="center"> I am now looking for a job as a developer. </h2>
+<h2 align="center"> I am now looking for a job as a developer C/C++. </h2>
 
 <div align="center">
   <img src="https://github.com/JaeSeoKim/badge42/blob/main/public/badge42_logo.svg" width="60" height="60" style="max-width: 100%;">
