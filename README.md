@@ -5,7 +5,7 @@
 <h2 align="center"> I'm currently a student at <a href="https://42lyon.fr/">42 Lyon</a> 💻 </h2>
 
 <div align="center">
-  <a href="[https://github.com/JaeSeoKim/badge42](https://github.com/JaeSeoKim/badge42/blob/main/public/badge42_logo.svg)"><img src="https://badge42.vercel.app/api/v2/clkuvonwa004908lkvf6mhvh9/stats?cursusId=21&coalitionId=undefined"     alt="cloraronco's 42 stats"/></a> 
+  <a href="https://github.com/JaeSeoKim/badge42/blob/main/public/badge42_logo.svg"><img src="https://badge42.vercel.app/api/v2/clkuvonwa004908lkvf6mhvh9/stats?cursusId=21&coalitionId=undefined"     alt="cloraronco's 42 stats"/></a> 
 </div>
 
 [![Github](https://img.shields.io/github/followers/cloraronco?label=Follow&style=social)](https://github.com/cloraronco)        ![](https://visitor-badge.laobi.icu/badge?page_id=cloraronco.cloraronco)
