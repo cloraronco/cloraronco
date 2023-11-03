@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
 </p>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloraronco&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
   
 
