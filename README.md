@@ -10,7 +10,7 @@
 </div>
 
 [![Github](https://img.shields.io/github/followers/cloraronco?label=Follow&style=social)](https://github.com/cloraronco)        ![](https://visitor-badge.laobi.icu/badge?page_id=cloraronco.cloraronco)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?cloraronco=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimecloraroncoffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🔧 Languages and tools </h3>
 <p align="left">
