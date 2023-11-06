@@ -10,7 +10,6 @@
 </div>
 
 [![Github](https://img.shields.io/github/followers/cloraronco?label=Follow&style=social)](https://github.com/cloraronco)        ![](https://visitor-badge.laobi.icu/badge?page_id=cloraronco.cloraronco)  
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cloraronco)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🔧 Languages and tools </h3>
 <p align="left">
@@ -39,7 +38,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
 </p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloraronco&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloraronco&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)  
+    
+  [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cloraronco)](https://github.com/anuraghazra/github-readme-stats)
   
 
 <h3 align="left"> 🌻 Connect with me on LinkedIn  <a href="https://www.linkedin.com/in/cyrilleloraronco/"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cyrille LORA RONCO" height="30" width="40" style="max-width: 100%;">
