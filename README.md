@@ -9,7 +9,7 @@
   <img src="https://github.com/JaeSeoKim/badge42/blob/main/public/badge42_logo.svg" width="60" height="60" style="max-width: 100%;">
 </div>
 
-[![Github](https://img.shields.io/github/followers/cloraronco?label=Follow&style=social)](https://github.com/cloraronco)        ![](https://visitor-badge.laobi.icu/badge?page_id=cloraronco.cloraronco)
+[![Github](https://img.shields.io/github/followers/?username=cloraronco?label=Follow&style=social)](https://github.com/cloraronco)        ![](https://visitor-badge.laobi.icu/badge?page_id=cloraronco.cloraronco)
 [![](https://github-readme-stats.vercel.app/api/wakatimecloraronco=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🔧 Languages and tools </h3>
