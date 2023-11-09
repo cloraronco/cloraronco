@@ -40,8 +40,8 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloraronco&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)  
 
-  **Real-time coding since the 6 nov.2023**  
-  [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cloraronco)](https://github.com/anuraghazra/github-readme-stats)
+<!--  **Real-time coding since the 6 nov.2023**  
+  [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cloraronco)](https://github.com/anuraghazra/github-readme-stats)-->
   
 
 <h3 align="left"> 🌻 Connect with me on LinkedIn  <a href="https://www.linkedin.com/in/cyrilleloraronco/"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cyrille LORA RONCO" height="30" width="40" style="max-width: 100%;">
