@@ -9,6 +9,9 @@
   <img src="https://github.com/JaeSeoKim/badge42/blob/main/public/badge42_logo.svg" width="60" height="60" style="max-width: 100%;">
 </div>
 
+- 🔭 I’m currently working on machine learning and OpenCV
+- 🌱 I’m currently learning Python and Agile Methodologies
+
 [![Github](https://img.shields.io/github/followers/cloraronco?label=Follow&style=social)](https://github.com/cloraronco)        ![](https://visitor-badge.laobi.icu/badge?page_id=cloraronco.cloraronco)  
 
 <h3> 🔧 Languages and tools </h3>
@@ -46,9 +49,6 @@
 
 <h3 align="left"> 🌻 Connect with me on LinkedIn  <a href="https://www.linkedin.com/in/cyrilleloraronco/"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cyrille LORA RONCO" height="30" width="40" style="max-width: 100%;">
 </a> </h3>
-
-- 🔭 I’m currently working on machine learning and OpenCV
-- 🌱 I’m currently learning Python
 <!--
 **cloraronco/cloraronco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
