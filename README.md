@@ -10,7 +10,7 @@
 </div>
 
 - 🔭 I’m currently working on machine learning and OpenCV
-- 🌱 I’m currently learning Python and Agile Methodologies
+- 🌱 I’m currently learning Python and Agile Methodologies.
 
 [![Github](https://img.shields.io/github/followers/cloraronco?label=Follow&style=social)](https://github.com/cloraronco)        ![](https://visitor-badge.laobi.icu/badge?page_id=cloraronco.cloraronco)  
 
